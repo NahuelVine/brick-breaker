@@ -3,6 +3,11 @@
     height: 320px;
     background: white;
     border: 1px solid black;
-    margin-top: 10%;
-    margin-left: 30%;
+    margin-top: 5%;
+    margin-left: 33%;
+}
+
+#title{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
 }

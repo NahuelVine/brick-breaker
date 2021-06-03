@@ -160,7 +160,7 @@ function loaded() {
     function drawVidas() {
         ctx.font = "15px Arial";
         ctx.fillStyle = "#FF0000";
-        ctx.fillText("Vidas: " + (vidas - 1), canvas.width - 65, 20);
+        ctx.fillText("Vidas: " + vidas, canvas.width - 65, 20);
     }
 
     function drawPausa() {
